@@ -1,0 +1,33 @@
+{
+    "tabWidth": 4,
+    "useTabs": false,
+    "semi": false,
+    "singleQuote": false,
+    "TrailingCooma": "all",
+
+    "bracketSpacing": true,
+
+    "jsxBracketSameLine": false,
+
+    "arrowParens": "avoid",
+    "prettier.configPath": "C:\\Users\\Luck\\.prettierrc",
+    "eslint.alwaysShowStatus": true,
+    "prettier.printWidth": 120,
+    "prettier.tabWidth": 2,
+    "prettier.useTabs": false,
+    "prettier.semi": true,
+    "prettier.singleQuote": true,
+    "prettier.proseWrap": "preserve",
+    "prettier.arrowParens": "avoid",
+    "prettier.bracketSpacing": true,
+    "prettier.endOfLine": "auto",
+    "prettier.eslintIntegration": false,
+    "prettier.htmlWhitespaceSensitivity": "ignore",
+    "prettier.ignorePath": ".prettierignore",
+    "prettier.BracketSameLine": false,
+    "prettier.jsxSingleQuote": false,
+    "prettier.requireConfig": false,
+    "prettier.stylelintIntegration": false,
+    "prettier.trailingComma": "none",
+    "prettier.tslintIntegration": false
+}
